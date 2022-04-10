@@ -19,6 +19,6 @@ Simple aplicación que consume una API con Retrofit y muestra una lista de Shows
 <h3>Capturas de pantalla:</h3>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhc5EqmIvSQfOgl1QeKUrmSMUnsfWNdeGF9ImwY_1POSWpFVDDnccO-sHzBgtSQTqQ_50WjzQjsjt55zGqsOU3azYNpCjhrGveoqivI3tOBkl-LFsDA76JlkYoJYwuvMMVUrk6AWdgdbwnSMSFoQi2oKUI2BWi8pAk8FtWjSsVWycmWgsrQ-g55cGPh=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgXs7QtGl_O6ERliioaVrFQDIGGvBV06p7PXO7INz4ciSfp2q2AVL7y8V-qELSlxCMl5W9IyXGMOakv5W0kHGLEiJlyy5R3sg1K56YEAS7IPn2CfisBrcyIqMiWNpOWcodi0J2rBSKkuSdaVsBRLHaEMBHUEULW5X8-cMgLz381SOcFICEJgnknUDv4=s16000" width="250">     
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGqM_clVDGclQ/feedshare-shrink_1280/0/1649551282180?e=2147483647&v=beta&t=dMkycQ_bvKfBB4wKAbia3W8RRng7AYaMkJKA4HB1cSY" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGDitX0ZtCeEQ/feedshare-shrink_1280/0/1649551282368?e=2147483647&v=beta&t=lJVJxzydsYPjeLkhyUlqM9DEfnz1QbBvMi9JIHgExB0" width="250">     
 </div>
